@@ -14,6 +14,16 @@ Open data sources compilation for Mexico
 
 * DENUE - Economit units (INEGI)
 
+##Geostatistic data
+
+* [INEGI Geostatistics](http://www.inegi.org.mx/geo/contenidos/geoestadistica/)
+
+##Zip codes
+
+* [SEPOMEX](http://correosdemexico.gob.mx/ServiciosLinea/Paginas/DescargaCP.aspx)
+* [Geonames](http://download.geonames.org/export/zip/) (search por MX.zip)
+
+
 
 #Websites
 
