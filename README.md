@@ -1,2 +1,29 @@
-# open-data-mexico
+#Data sources
+
 Open data sources compilation for Mexico
+
+##Crime data
+
+* [SEGOB](http://secretariadoejecutivo.gob.mx/incidencia-delictiva/incidencia-delictiva-fuero-comun.php)
+
+##Population data
+
+* Population census (INEGI)
+
+##Economic data
+
+* DENUE - Economit units (INEGI)
+
+
+#Websites
+
+* [Federal government open data website](http://datos.gob.mx/)
+* [datamx](http://datamx.io/)
+* [Mexico City open data website](http://www.datosabiertos.df.gob.mx/)
+* [LabCDMX databank](http://datos.labplc.mx/datasets/)
+* [INEGI](http://www.inegi.org.mx/)
+* [INAI](http://portaltransparencia.gob.mx/pot/openData/openData.jsp)
+
+##Tools
+
+* [INEGI download script](https://github.com/edublancas/inegi-denue)
