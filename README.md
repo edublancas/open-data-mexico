@@ -42,7 +42,7 @@ Open data sources compilation for Mexico
 * [CONAPO, Poverty indexes](http://www.conapo.gob.mx/es/CONAPO/Indices_de_Marginacion_Publicaciones)
 
 
-#Websites
+#Websites (to get even more data)
 
 * [Federal government open data website](http://datos.gob.mx/)
 * [datamx](http://datamx.io/)
@@ -52,7 +52,8 @@ Open data sources compilation for Mexico
 * [INEGI](http://www.inegi.org.mx/)
 * [INAI](http://portaltransparencia.gob.mx/pot/openData/openData.jsp)
 * [CONAPO Databases](http://www.conapo.gob.mx/es/CONAPO/Bases_de_datos_ENADID_2009)
+* [Diego Valle-Jones website](https://www.diegovalle.net/projects.html#url=%23datasets)
 
-##Tools
+##Tools (to get INEGI data easily)
 
 * [INEGI download script](https://github.com/edublancas/inegi-denue)
