@@ -2,22 +2,84 @@
 
 Open data sources compilation for Mexico
 
-##Crime data
+**Important:** many resources listed here are available at INEGI website. The website lacks of a good user experience –for example REST paths–. I developed a [script that enables bulk downloading from INEGI portal](https://github.com/edublancas/inegi), even better, some [text files](https://github.com/edublancas/inegi/tree/master/links%20directos) are available and contain direct links to complete INEGI datasets.
 
-* [SEGOB](http://secretariadoejecutivo.gob.mx/incidencia-delictiva/incidencia-delictiva-fuero-comun.php)
+##Education
 
-##Population data
+* Schools, teachers and students in primary and special education census (CEMABE)
+    * [Download from INEGI](http://www3.inegi.org.mx/sistemas/descarga/) 
+    * [Download direct links (it may not be the latest version)](https://github.com/edublancas/inegi/tree/master/links%20directos)
+    * [Download using Python script](https://github.com/edublancas/inegi)
 
-* Population census (INEGI)
-* [CONAPO](http://www.conapo.gob.mx/es/CONAPO/Proyecciones_Datos)
+##Economic
 
-##Economic data
+* National Statistics Directory of Economic Units (DENUE)
+* Economic census
+* PIB (GDP) and national account system
+* State and municipal finance
 
-* DENUE - Economit units (INEGI)
+* [Download from INEGI](http://www3.inegi.org.mx/sistemas/descarga/)
+* [Download direct links (it may not be the latest version)](https://github.com/edublancas/inegi/tree/master/links%20directos)
+* [Download using Python script](https://github.com/edublancas/inegi)
 
-##Geostatistic data
 
-* [INEGI Geostatistics](http://www.inegi.org.mx/geo/contenidos/geoestadistica/)
+##Industry
+
+* Minerometalurgic industry survey
+* Monthly survey of manufacturing
+
+* [Download from INEGI](http://www3.inegi.org.mx/sistemas/descarga/)
+* [Download direct links (it may not be the latest version)](https://github.com/edublancas/inegi/tree/master/links%20directos)
+* [Download using Python script](https://github.com/edublancas/inegi)
+
+    
+##Population
+
+* Population and Housing census (2010, 2005, 2000 and 1995)
+* Birth, death and marriage
+
+* [Download from INEGI](http://www3.inegi.org.mx/sistemas/descarga/)
+* [Download direct links (it may not be the latest version)](https://github.com/edublancas/inegi/tree/master/links%20directos)
+* [Download using Python script](https://github.com/edublancas/inegi)
+
+* Population projection (2010-2050)
+    * [Download from CONAPO](http://www.conapo.gob.mx/es/CONAPO/Proyecciones_Datos)
+
+##Employment
+
+* National Survey of Occupation and Employment 
+* Labour relations of labor jurisdiction
+
+* [Download from INEGI](http://www3.inegi.org.mx/sistemas/descarga/)
+* [Download direct links (it may not be the latest version)](https://github.com/edublancas/inegi/tree/master/links%20directos)
+* [Download using Python script](https://github.com/edublancas/inegi)
+
+##Transit
+
+* Road traffic accidents in urban and suburban areas
+* Statistics of motor vehicles registered
+
+* [Download from INEGI](http://www3.inegi.org.mx/sistemas/descarga/)
+* [Download direct links (it may not be the latest version)](https://github.com/edublancas/inegi/tree/master/links%20directos)
+* [Download using Python script](https://github.com/edublancas/inegi)
+
+##Crime
+
+* Criminal Incidence (per state and municipality)
+    * [Download from SEGOB](http://secretariadoejecutivo.gob.mx/incidencia-delictiva/incidencia-delictiva-fuero-comun.php)
+    
+##Law
+
+* Judicial in criminal matters
+
+* [Download from INEGI](http://www3.inegi.org.mx/sistemas/descarga/)
+* [Download direct links (it may not be the latest version)](https://github.com/edublancas/inegi/tree/master/links%20directos)
+* [Download using Python script](https://github.com/edublancas/inegi)
+
+##Geostatistics
+
+* Mexican geostatistics
+    * [Download from INEGI](http://www.inegi.org.mx/geo/contenidos/geoestadistica/)
 
 ##Zip codes
 
@@ -42,7 +104,7 @@ Open data sources compilation for Mexico
 * [CONAPO, Poverty indexes](http://www.conapo.gob.mx/es/CONAPO/Indices_de_Marginacion_Publicaciones)
 
 
-#Websites (to get even more data)
+#Websites (with more datasets)
 
 * [Federal government open data website](http://datos.gob.mx/)
 * [datamx](http://datamx.io/)
@@ -54,6 +116,7 @@ Open data sources compilation for Mexico
 * [CONAPO Databases](http://www.conapo.gob.mx/es/CONAPO/Bases_de_datos_ENADID_2009)
 * [Diego Valle-Jones website](https://www.diegovalle.net/projects.html#url=%23datasets)
 
-##Tools (to get INEGI data easily)
+##Tools
 
-* [INEGI download script](https://github.com/edublancas/inegi-denue)
+* INEGI automatic downloader
+    * [Repository](https://github.com/edublancas/inegi)
