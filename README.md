@@ -104,7 +104,11 @@ Open data sources compilation for Mexico
 * [CONAPO, Poverty indexes](http://www.conapo.gob.mx/es/CONAPO/Indices_de_Marginacion_Publicaciones)
 
 
+##Natural disasters
+* [Desinventar.org](http://www.desinventar.org/en/)
+
 #Websites (with more datasets)
+
 
 * [Federal government open data website](http://datos.gob.mx/)
 * [datamx](http://datamx.io/)
@@ -115,6 +119,7 @@ Open data sources compilation for Mexico
 * [INAI](http://portaltransparencia.gob.mx/pot/openData/openData.jsp)
 * [CONAPO Databases](http://www.conapo.gob.mx/es/CONAPO/Bases_de_datos_ENADID_2009)
 * [Diego Valle-Jones website](https://www.diegovalle.net/projects.html#url=%23datasets)
+* [Mexican Institute of Social Security](http://datos.imss.gob.mx/)
 
 ##Tools
 
