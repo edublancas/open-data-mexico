@@ -106,6 +106,7 @@ Open data sources compilation for Mexico
 
 ##Natural disasters
 * [Desinventar.org](http://www.desinventar.org/en/)
+* [CENAPRED](http://www.atlasnacionalderiesgos.gob.mx/index.php/biblioteca)
 
 #Websites (with more datasets)
 
