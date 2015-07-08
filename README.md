@@ -95,9 +95,10 @@ Open data sources compilation for Mexico
 
 * [Climate](http://www.inegi.org.mx/geo/contenidos/recnat/clima/infoescala.aspx)
 
-##Infant mortality
+##Mortality mortality
 
-* [CONAPO, 2005](http://www.conapo.gob.mx/es/CONAPO/Estimacion_de_la_mortalidad_infantil_para_Mexico_las_entidades_federativas_y_los_municipios_2005)
+* [Infant Mortality. CONAPO, 2005](http://www.conapo.gob.mx/es/CONAPO/Estimacion_de_la_mortalidad_infantil_para_Mexico_las_entidades_federativas_y_los_municipios_2005)
+* [INEGI. 1990-2013](http://www.inegi.org.mx/est/contenidos/proyectos/registros/vitales/mortalidad/)
 
 ##Poverty
 
