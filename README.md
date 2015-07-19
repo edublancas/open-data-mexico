@@ -122,6 +122,7 @@ Open data sources compilation for Mexico
 * [CONAPO Databases](http://www.conapo.gob.mx/es/CONAPO/Bases_de_datos_ENADID_2009)
 * [Diego Valle-Jones website](https://www.diegovalle.net/projects.html#url=%23datasets)
 * [Mexican Institute of Social Security](http://datos.imss.gob.mx/)
+* [National System of Municipal Information](http://www.snim.rami.gob.mx/)
 
 ##Tools
 
