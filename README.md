@@ -4,6 +4,10 @@ Open data sources compilation for Mexico
 
 **Important:** many resources listed here are available at INEGI website. The website lacks of a good user experience –for example REST paths–. I developed a [script that enables bulk downloading from INEGI portal](https://github.com/edublancas/inegi), even better, some [text files](https://github.com/edublancas/inegi/tree/master/links%20directos) are available and contain direct links to complete INEGI datasets.
 
+##Elections
+
+* [Election results (1991-2012)](http://siceef.ife.org.mx/pef2012/SICEEF2012.html#)
+
 ##Education
 
 * Schools, teachers and students in primary and special education census (CEMABE)
