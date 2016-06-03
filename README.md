@@ -122,5 +122,6 @@ Natural disasters
 
 ## Tools
 
-*   INEGI automatic downloader
-    *   [Repository](https://github.com/edublancas/inegi)
+* [InegiR](https://github.com/Eflores89/inegiR) (R library to download Inegi data, documentation in Spanish)  
+* INEGI automatic downloader
+    * [Repository](https://github.com/edublancas/inegi)
